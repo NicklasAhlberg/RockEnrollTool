@@ -1,5 +1,7 @@
 .Version 1.0.2
 - Fixed an UI issue on devices not running 100% scaling
+
+
 <!-- wp:image {"id":1271,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="https://www.rockenroll.tech/wp-content/uploads/2022/10/SignIn-Experience.gif" alt="" class="wp-image-1271"/><figcaption>Connect tab in action</figcaption></figure>
 <!-- /wp:image -->
