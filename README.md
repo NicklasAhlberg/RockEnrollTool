@@ -1,5 +1,5 @@
 .Version 1.0.2
-- Fixed an UI issue on devices not running 100% scaling
+- Fixed an UI issue on devices not running 100% scaling and added a new icon 🤩
 
 
 <!-- wp:image {"id":1271,"sizeSlug":"full","linkDestination":"none"} -->
